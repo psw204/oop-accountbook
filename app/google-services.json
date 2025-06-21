@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "382550139366",
+    "firebase_url": "https://hometown-test-default-rtdb.firebaseio.com",
+    "project_id": "hometown-test",
+    "storage_bucket": "hometown-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382550139366:android:21509054aca92fc8d13627",
+        "android_client_info": {
+          "package_name": "com.example.project1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj2KFmDwca_Ie0Zi602ViBUASETF5QHUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
