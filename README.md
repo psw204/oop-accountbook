@@ -22,10 +22,10 @@
 (여기에 앱 실행 화면 스크린샷을 추가하시면 좋습니다.)
 
 ### 거래 내역
-<img src="app/src/main/res/raw/logo.png" width="250"/>
+![image](https://github.com/user-attachments/assets/82802a6d-7ed6-4271-8c6d-6d9c58770e4c)
 
 ### 분석
-<img src="app/src/main/res/raw/logo.png" width="250"/>
+![image](https://github.com/user-attachments/assets/a46f60a7-f8f9-468f-bf12-07899ecee2a1)
 
 ## ⚙️ 설정 방법
 
