@@ -17,14 +17,6 @@
 - **차트 라이브러리**: MPAndroidChart
 - **UI**: Android Jetpack (View Binding, Navigation Component)
 
-## 📝 실행 화면
-
-### 거래 내역
-![image](https://github.com/user-attachments/assets/82802a6d-7ed6-4271-8c6d-6d9c58770e4c)
-
-### 분석
-![image](https://github.com/user-attachments/assets/a46f60a7-f8f9-468f-bf12-07899ecee2a1)
-
 ## ⚙️ 설정 방법
 
 1.  이 저장소를 클론합니다.
