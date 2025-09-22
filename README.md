@@ -2,7 +2,7 @@
 
 객체지향프로그래밍 수업 프로젝트로 개발한 안드로이드 가계부 애플리케이션입니다.
 
-[디자인 시안 보기 (Figma)](https://www.figma.com/design/aUV7OddROBLlGzt34qUs1J/Travel-APP?node-id=0-1&t=cGw0TTfn2niEiWNf-1](https://www.figma.com/design/1JphfW6dsQFx15wwlPcMT1/OOP-AccountBook?node-id=0-1&t=4smghJCnOZxVWV8X-1)
+[디자인 시안 보기 (Figma)](https://www.figma.com/design/1JphfW6dsQFx15wwlPcMT1/OOP-AccountBook?node-id=0-1&t=i2hYhZnDtWDcg1bX-1)
 
 ## 🌟 주요 기능
 
